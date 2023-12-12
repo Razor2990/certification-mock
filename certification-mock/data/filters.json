@@ -1,0 +1,18 @@
+{
+  "Proveedor": {
+    "label": "Proveedor",
+    "options": ["AWS", "Azure", "Google", "Oracle"]
+  },
+  "Tags": {
+    "label": "Tags",
+    "options": ["Apis", "Cloud", "BDA"]
+  },
+  "Validación": {
+    "label": "Validación",
+    "options": ["Approved", "Earring", "Refused"]
+  },
+  "LíneaDeServicio": {
+    "label": "Línea de Servicio",
+    "options": ["Digital Architecture", "UEX", "RH"]
+  }
+}

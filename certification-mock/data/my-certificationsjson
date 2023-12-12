@@ -1,0 +1,2337 @@
+[
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Pablito Cantú",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Refused",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" }
+        ]
+      }
+    ],
+    "supplier": "MICROSOFT AZURE",
+    "registration_date": "02/04/2022",
+    "status": "Refused",
+    "country": "Brasil",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Juan Perez",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Approved",
+        "file": "Ref",
+        "tags": [
+          {
+            "value": "apis"
+          },
+          {
+            "value": "cloud"
+          }
+        ]
+      }
+    ],
+    "supplier": "AWS",
+    "registration_date": "02/04/2022",
+    "status": "Approved",
+    "country": "México",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  },
+  {
+    "id": "123456",
+    "employee_name": "Jimenez Alcocer",
+    "certifications": [
+      {
+        "certification_id": "certId",
+        "date_of_issue": "02/02/2023",
+        "created_at": "02/02/2023",
+        "validity_years": 3,
+        "status": "Earring",
+        "file": "Ref",
+        "tags": [
+          { "value": "apis" },
+          { "value": "cloud" },
+          { "value": "data analystics" },
+          { "value": "security" },
+          { "value": "BDA" },
+          { "value": "networks" },
+          { "value": "scrum" }
+        ]
+      }
+    ],
+    "supplier": "GOOGLE",
+    "registration_date": "02/04/2022",
+    "status": "Earring",
+    "country": "Colombia",
+    "service_line": "Digital Architecture"
+  }
+]
