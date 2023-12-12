@@ -1,4 +1,4 @@
 <!-- descargar dependencias -->
-npm install / npm -i
+npm install / npm i
 <!-- correr poryecto -->
 npm start
